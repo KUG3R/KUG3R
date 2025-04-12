@@ -12,7 +12,7 @@
 - А/В тестирование
 - Визуализация данных
 
-### [Учебные проекты Яндекс Практикума](https://github.com/KUG3R/KUG3R)
+### [Учебные проекты Яндекс Практикума](https://github.com/KUG3R/Yandex_Practicum_Education)
 
 ### Мои контакты
 - TG: [@KUG3R](https://t.me/@KUG3R)
