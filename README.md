@@ -15,4 +15,4 @@
 ### [Учебные проекты Яндекс Практикума](https://github.com/KUG3R/KUG3R)
 
 ### Мои контакты
-- t.me/@KUG3R
+- [@KUG3R](https://t.me/@KUG3R)
